@@ -1,3 +1,7 @@
+## Reference:
+- https://console.groq.com/docs/quickstart
+- https://groq.com/
+
 ## Features
 
 - Posts a user's message to the Groq API
